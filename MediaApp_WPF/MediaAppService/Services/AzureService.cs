@@ -16,7 +16,7 @@ namespace MediaServices.Services
 {
     public class AzureService : IAzureService
     {
-        private readonly string Azure_Storage_Conn_String = "DefaultEndpointsProtocol=https;AccountName=allsamplevideos;AccountKey=AOTLnwgtYz6dKE1/G05Z32zDhUc73GNFYn8hwog7QQGBVbb4N8P60SDlM9TZqwxkDEzQTdnovfox+AStiFS9lQ==;EndpointSuffix=core.windows.net";
+        private readonly string Azure_Storage_Conn_String = "";
 
         private readonly string containerName = "videos";
 
