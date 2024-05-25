@@ -1,0 +1,12 @@
+C:\Users\Shiva Bulbul\Desktop\Intuit\MediaApp_WPF\MediaApp_WPF\MediaAppService\obj\Debug\net8.0-windows\MediaAppService.csproj.AssemblyReference.cache
+C:\Users\Shiva Bulbul\Desktop\Intuit\MediaApp_WPF\MediaApp_WPF\MediaAppService\obj\Debug\net8.0-windows\MediaAppService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shiva Bulbul\Desktop\Intuit\MediaApp_WPF\MediaApp_WPF\MediaAppService\obj\Debug\net8.0-windows\MediaAppService.AssemblyInfoInputs.cache
+C:\Users\Shiva Bulbul\Desktop\Intuit\MediaApp_WPF\MediaApp_WPF\MediaAppService\obj\Debug\net8.0-windows\MediaAppService.AssemblyInfo.cs
+C:\Users\Shiva Bulbul\Desktop\Intuit\MediaApp_WPF\MediaApp_WPF\MediaAppService\obj\Debug\net8.0-windows\MediaAppService.csproj.CoreCompileInputs.cache
+C:\Users\Shiva Bulbul\Desktop\Intuit\MediaApp_WPF\MediaApp_WPF\MediaAppService\bin\Debug\net8.0-windows\MediaAppService.deps.json
+C:\Users\Shiva Bulbul\Desktop\Intuit\MediaApp_WPF\MediaApp_WPF\MediaAppService\bin\Debug\net8.0-windows\MediaAppService.dll
+C:\Users\Shiva Bulbul\Desktop\Intuit\MediaApp_WPF\MediaApp_WPF\MediaAppService\bin\Debug\net8.0-windows\MediaAppService.pdb
+C:\Users\Shiva Bulbul\Desktop\Intuit\MediaApp_WPF\MediaApp_WPF\MediaAppService\obj\Debug\net8.0-windows\MediaAppService.dll
+C:\Users\Shiva Bulbul\Desktop\Intuit\MediaApp_WPF\MediaApp_WPF\MediaAppService\obj\Debug\net8.0-windows\refint\MediaAppService.dll
+C:\Users\Shiva Bulbul\Desktop\Intuit\MediaApp_WPF\MediaApp_WPF\MediaAppService\obj\Debug\net8.0-windows\MediaAppService.pdb
+C:\Users\Shiva Bulbul\Desktop\Intuit\MediaApp_WPF\MediaApp_WPF\MediaAppService\obj\Debug\net8.0-windows\ref\MediaAppService.dll

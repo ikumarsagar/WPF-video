@@ -1,0 +1,208 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Shiva Bulbul\\Desktop\\Intuit\\MediaApp_WPF\\MediaApp_WPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F58F6E35-96E6-4F80-8873-40EC518246B1}|MediaApp_WPF\\MediaApp_WPF.csproj|c:\\users\\shiva bulbul\\desktop\\intuit\\mediaapp_wpf\\mediaapp_wpf\\mediaapp_wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F58F6E35-96E6-4F80-8873-40EC518246B1}|MediaApp_WPF\\MediaApp_WPF.csproj|solutionrelative:mediaapp_wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F58F6E35-96E6-4F80-8873-40EC518246B1}|MediaApp_WPF\\MediaApp_WPF.csproj|c:\\users\\shiva bulbul\\desktop\\intuit\\mediaapp_wpf\\mediaapp_wpf\\mediaapp_wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F58F6E35-96E6-4F80-8873-40EC518246B1}|MediaApp_WPF\\MediaApp_WPF.csproj|solutionrelative:mediaapp_wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F58F6E35-96E6-4F80-8873-40EC518246B1}|MediaApp_WPF\\MediaApp_WPF.csproj|c:\\users\\shiva bulbul\\desktop\\intuit\\mediaapp_wpf\\mediaapp_wpf\\mediaapp_wpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F58F6E35-96E6-4F80-8873-40EC518246B1}|MediaApp_WPF\\MediaApp_WPF.csproj|solutionrelative:mediaapp_wpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F58F6E35-96E6-4F80-8873-40EC518246B1}|MediaApp_WPF\\MediaApp_WPF.csproj|c:\\users\\shiva bulbul\\desktop\\intuit\\mediaapp_wpf\\mediaapp_wpf\\mediaapp_wpf\\ioc\\windowsappioc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F58F6E35-96E6-4F80-8873-40EC518246B1}|MediaApp_WPF\\MediaApp_WPF.csproj|solutionrelative:mediaapp_wpf\\ioc\\windowsappioc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4AF4C52-3E42-4FDC-88A1-61E92DFBFC9A}|MediaAppService\\MediaAppService.csproj|c:\\users\\shiva bulbul\\desktop\\intuit\\mediaapp_wpf\\mediaapp_wpf\\mediaappservice\\services\\azureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4AF4C52-3E42-4FDC-88A1-61E92DFBFC9A}|MediaAppService\\MediaAppService.csproj|solutionrelative:mediaappservice\\services\\azureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F58F6E35-96E6-4F80-8873-40EC518246B1}|MediaApp_WPF\\MediaApp_WPF.csproj|c:\\users\\shiva bulbul\\desktop\\intuit\\mediaapp_wpf\\mediaapp_wpf\\mediaapp_wpf\\viewmodel\\videoinfoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F58F6E35-96E6-4F80-8873-40EC518246B1}|MediaApp_WPF\\MediaApp_WPF.csproj|solutionrelative:mediaapp_wpf\\viewmodel\\videoinfoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F58F6E35-96E6-4F80-8873-40EC518246B1}|MediaApp_WPF\\MediaApp_WPF.csproj|c:\\users\\shiva bulbul\\desktop\\intuit\\mediaapp_wpf\\mediaapp_wpf\\mediaapp_wpf\\model\\videoinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F58F6E35-96E6-4F80-8873-40EC518246B1}|MediaApp_WPF\\MediaApp_WPF.csproj|solutionrelative:mediaapp_wpf\\model\\videoinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4AF4C52-3E42-4FDC-88A1-61E92DFBFC9A}|MediaAppService\\MediaAppService.csproj|c:\\users\\shiva bulbul\\desktop\\intuit\\mediaapp_wpf\\mediaapp_wpf\\mediaappservice\\interface\\iazureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4AF4C52-3E42-4FDC-88A1-61E92DFBFC9A}|MediaAppService\\MediaAppService.csproj|solutionrelative:mediaappservice\\interface\\iazureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4AF4C52-3E42-4FDC-88A1-61E92DFBFC9A}|MediaAppService\\MediaAppService.csproj|c:\\users\\shiva bulbul\\desktop\\intuit\\mediaapp_wpf\\mediaapp_wpf\\mediaappservice\\services\\storageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4AF4C52-3E42-4FDC-88A1-61E92DFBFC9A}|MediaAppService\\MediaAppService.csproj|solutionrelative:mediaappservice\\services\\storageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4AF4C52-3E42-4FDC-88A1-61E92DFBFC9A}|MediaAppService\\MediaAppService.csproj|c:\\users\\shiva bulbul\\desktop\\intuit\\mediaapp_wpf\\mediaapp_wpf\\mediaappservice\\datacontract\\videodatacontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4AF4C52-3E42-4FDC-88A1-61E92DFBFC9A}|MediaAppService\\MediaAppService.csproj|solutionrelative:mediaappservice\\datacontract\\videodatacontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4AF4C52-3E42-4FDC-88A1-61E92DFBFC9A}|MediaAppService\\MediaAppService.csproj|c:\\users\\shiva bulbul\\desktop\\intuit\\mediaapp_wpf\\mediaapp_wpf\\mediaappservice\\interface\\istorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4AF4C52-3E42-4FDC-88A1-61E92DFBFC9A}|MediaAppService\\MediaAppService.csproj|solutionrelative:mediaappservice\\interface\\istorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AzureService.cs",
+              "DocumentMoniker": "C:\\Users\\Shiva Bulbul\\Desktop\\Intuit\\MediaApp_WPF\\MediaApp_WPF\\MediaAppService\\Services\\AzureService.cs",
+              "RelativeDocumentMoniker": "MediaAppService\\Services\\AzureService.cs",
+              "ToolTip": "C:\\Users\\Shiva Bulbul\\Desktop\\Intuit\\MediaApp_WPF\\MediaApp_WPF\\MediaAppService\\Services\\AzureService.cs",
+              "RelativeToolTip": "MediaAppService\\Services\\AzureService.cs",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAowCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T08:51:38.301Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Shiva Bulbul\\Desktop\\Intuit\\MediaApp_WPF\\MediaApp_WPF\\MediaApp_WPF\\App.xaml.cs",
+              "RelativeDocumentMoniker": "MediaApp_WPF\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Shiva Bulbul\\Desktop\\Intuit\\MediaApp_WPF\\MediaApp_WPF\\MediaApp_WPF\\App.xaml.cs",
+              "RelativeToolTip": "MediaApp_WPF\\App.xaml.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwA0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T13:41:05.311Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WindowsAppIoc.cs",
+              "DocumentMoniker": "C:\\Users\\Shiva Bulbul\\Desktop\\Intuit\\MediaApp_WPF\\MediaApp_WPF\\MediaApp_WPF\\Ioc\\WindowsAppIoc.cs",
+              "RelativeDocumentMoniker": "MediaApp_WPF\\Ioc\\WindowsAppIoc.cs",
+              "ToolTip": "C:\\Users\\Shiva Bulbul\\Desktop\\Intuit\\MediaApp_WPF\\MediaApp_WPF\\MediaApp_WPF\\Ioc\\WindowsAppIoc.cs",
+              "RelativeToolTip": "MediaApp_WPF\\Ioc\\WindowsAppIoc.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T06:25:47.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VideoInfoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Shiva Bulbul\\Desktop\\Intuit\\MediaApp_WPF\\MediaApp_WPF\\MediaApp_WPF\\ViewModel\\VideoInfoViewModel.cs",
+              "RelativeDocumentMoniker": "MediaApp_WPF\\ViewModel\\VideoInfoViewModel.cs",
+              "ToolTip": "C:\\Users\\Shiva Bulbul\\Desktop\\Intuit\\MediaApp_WPF\\MediaApp_WPF\\MediaApp_WPF\\ViewModel\\VideoInfoViewModel.cs",
+              "RelativeToolTip": "MediaApp_WPF\\ViewModel\\VideoInfoViewModel.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwDEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T12:03:06.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Shiva Bulbul\\Desktop\\Intuit\\MediaApp_WPF\\MediaApp_WPF\\MediaApp_WPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MediaApp_WPF\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Shiva Bulbul\\Desktop\\Intuit\\MediaApp_WPF\\MediaApp_WPF\\MediaApp_WPF\\MainWindow.xaml*",
+              "RelativeToolTip": "MediaApp_WPF\\MainWindow.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-24T08:42:23.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Shiva Bulbul\\Desktop\\Intuit\\MediaApp_WPF\\MediaApp_WPF\\MediaApp_WPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MediaApp_WPF\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Shiva Bulbul\\Desktop\\Intuit\\MediaApp_WPF\\MediaApp_WPF\\MediaApp_WPF\\MainWindow.xaml.cs*",
+              "RelativeToolTip": "MediaApp_WPF\\MainWindow.xaml.cs*",
+              "ViewState": "AQIAABYAAAAAAAAAAAAUwDMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T08:42:21.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VideoDataContract.cs",
+              "DocumentMoniker": "C:\\Users\\Shiva Bulbul\\Desktop\\Intuit\\MediaApp_WPF\\MediaApp_WPF\\MediaAppService\\DataContract\\VideoDataContract.cs",
+              "RelativeDocumentMoniker": "MediaAppService\\DataContract\\VideoDataContract.cs",
+              "ToolTip": "C:\\Users\\Shiva Bulbul\\Desktop\\Intuit\\MediaApp_WPF\\MediaApp_WPF\\MediaAppService\\DataContract\\VideoDataContract.cs",
+              "RelativeToolTip": "MediaAppService\\DataContract\\VideoDataContract.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T12:35:12.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StorageService.cs",
+              "DocumentMoniker": "C:\\Users\\Shiva Bulbul\\Desktop\\Intuit\\MediaApp_WPF\\MediaApp_WPF\\MediaAppService\\Services\\StorageService.cs",
+              "RelativeDocumentMoniker": "MediaAppService\\Services\\StorageService.cs",
+              "ToolTip": "C:\\Users\\Shiva Bulbul\\Desktop\\Intuit\\MediaApp_WPF\\MediaApp_WPF\\MediaAppService\\Services\\StorageService.cs",
+              "RelativeToolTip": "MediaAppService\\Services\\StorageService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAADwvwoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T09:09:42.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VideoInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Shiva Bulbul\\Desktop\\Intuit\\MediaApp_WPF\\MediaApp_WPF\\MediaApp_WPF\\Model\\VideoInfo.cs",
+              "RelativeDocumentMoniker": "MediaApp_WPF\\Model\\VideoInfo.cs",
+              "ToolTip": "C:\\Users\\Shiva Bulbul\\Desktop\\Intuit\\MediaApp_WPF\\MediaApp_WPF\\MediaApp_WPF\\Model\\VideoInfo.cs",
+              "RelativeToolTip": "MediaApp_WPF\\Model\\VideoInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T11:57:56.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAzureService.cs",
+              "DocumentMoniker": "C:\\Users\\Shiva Bulbul\\Desktop\\Intuit\\MediaApp_WPF\\MediaApp_WPF\\MediaAppService\\Interface\\IAzureService.cs",
+              "RelativeDocumentMoniker": "MediaAppService\\Interface\\IAzureService.cs",
+              "ToolTip": "C:\\Users\\Shiva Bulbul\\Desktop\\Intuit\\MediaApp_WPF\\MediaApp_WPF\\MediaAppService\\Interface\\IAzureService.cs",
+              "RelativeToolTip": "MediaAppService\\Interface\\IAzureService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T08:48:57.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\Shiva Bulbul\\Desktop\\Intuit\\MediaApp_WPF\\MediaApp_WPF\\MediaAppService\\Interface\\IStorageService.cs",
+              "RelativeDocumentMoniker": "MediaAppService\\Interface\\IStorageService.cs",
+              "ToolTip": "C:\\Users\\Shiva Bulbul\\Desktop\\Intuit\\MediaApp_WPF\\MediaApp_WPF\\MediaAppService\\Interface\\IStorageService.cs",
+              "RelativeToolTip": "MediaAppService\\Interface\\IStorageService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T08:49:00.708Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
